@@ -27,7 +27,7 @@ python3 explorateur.py
 ----------------------------------------------------
 
 
-###📌 Commandes
+## 📌 Commandes
 Commande       	Action
 1,2,3…	        Ouvrir fichier / entrer dans dossier
 0	              Retour
@@ -37,14 +37,14 @@ r	              Reset filtre
 h	              Historique
 q	              Quitter
 
-###📱 Compatibilité
+## 📱 Compatibilité
 
 -Linux (Kali, Ubuntu)
 -Windows
 -macOS
 -Android (Termux)
 
-###⚠️ Android (Termux)
+## ⚠️ Android (Termux)
 ```bash
 pkg install termux-api
 termux-setup-storage
