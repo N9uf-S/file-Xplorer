@@ -29,20 +29,20 @@ python3 explorateur.py
 
 ## 📌 Commandes
 Commande       	Action
-1,2,3…	        Ouvrir fichier / entrer dans dossier
-0	              Retour
-i<num>        	Infos
-f	              Filtre
-r	              Reset filtre
-h	              Historique
-q	              Quitter
+- 1,2,3…	        Ouvrir fichier / entrer dans dossier
+- 0	              Retour
+- i<num>        	Infos
+- f	              Filtre
+- r	              Reset filtre
+- h	              Historique
+- q	              Quitter
 
 ## 📱 Compatibilité
 
--Linux (Kali, Ubuntu)
--Windows
--macOS
--Android (Termux)
+ - Linux (Kali, Ubuntu)
+ - Windows
+ - macOS
+ - Android (Termux)
 
 ## ⚠️ Android (Termux)
 ```bash
