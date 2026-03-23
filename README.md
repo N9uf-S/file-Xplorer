@@ -51,3 +51,7 @@ termux-setup-storage
 git clone https://github.com/N9uf-S/file-Xplorer.git
 cd file-Xplorer
 python3 explorateur.py
+```
+## 📸 Aperçu
+
+![Explorateur](assets/explorateur.png)
