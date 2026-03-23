@@ -54,4 +54,4 @@ python3 explorateur.py
 ```
 ## 📸 Aperçu
 
-![Explorateur](assets/explorateur.png)
+![Explorateur](assets/file_Xplorer.png)
