@@ -55,3 +55,5 @@ python3 explorateur.py
 ## 📸 Aperçu
 
 ![Explorateur](file_Xplorer.png)
+![Explorateur](file_Xplorer1.png)
+![Explorateur](file_Xplorer2.png)
