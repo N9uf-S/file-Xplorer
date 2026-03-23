@@ -23,3 +23,21 @@ Un explorateur de fichiers en terminal, rapide, stylé et multiplateforme.
 git clone https://github.com/N9uf-S/file-Xplorer.git
 cd file-Xplorer
 python3 explorateur.py
+
+📌 Commandes
+Commande	Action
+1,2,3…	Ouvrir fichier / entrer dans dossier
+0	Retour
+i<num>	Infos
+f	Filtre
+r	Reset filtre
+h	Historique
+q	Quitter
+📱 Compatibilité
+Linux (Kali, Ubuntu)
+Windows
+macOS
+Android (Termux)
+⚠️ Android (Termux)
+pkg install termux-api
+termux-setup-storage
